@@ -110,8 +110,3 @@ Flask: For the lightweight web framework.
 
 HTML/CSS: For building the user interface.
 
-Feel free to customize this README further to match your project's specifics. If you need assistance with adding more sections or details, let me know!
-
-yaml
-Copy
-Edit
